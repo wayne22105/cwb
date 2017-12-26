@@ -32,3 +32,4 @@ plot(nov$測站氣壓,type="b", pch=16, col="black",las=1,xlab="日期",
      ylab="大氣壓",main="2017/11", axes=TRUE)
 plot(dec$測站氣壓,type="o", pch=16, col="black",las=1,xlab="日期",
      ylab="大氣壓",main="2017/12", axes=TRUE)
+
